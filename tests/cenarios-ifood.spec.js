@@ -1,4 +1,3 @@
-// @ts-check
 const { test, expect } = require('@playwright/test');
 
 test('acessar página do ifood > entrar', async ({ page }) => {
